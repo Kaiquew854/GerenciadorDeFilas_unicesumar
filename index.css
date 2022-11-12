@@ -1,0 +1,45 @@
+body{
+    background-color:	#1E90FF
+    
+}
+main{
+    background-color: 	#4169E1;
+   
+}
+header{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+div{
+    color: yellow;
+    font-size:xx-large;
+    text-align: center;
+    
+}
+#areaCliente{
+    font-style: oblique;
+    text-align: center;
+    font-size:x-large;
+    position: absolute;
+    background-color: #B0C4DE;
+    height: 230px;
+    width: 665px;
+    left: 10px;
+}
+#areaCaixas{
+    font-style: oblique;
+    text-align: center;
+    font-size:x-large;
+    background-color: #B0C4DE;
+    position: absolute;
+    background-color: #B0C4DE;
+    height: 230px;
+    width: 665px;
+    right: 10px;
+}
+button{
+    height: 30px;
+    width: 95px;
+}
+
